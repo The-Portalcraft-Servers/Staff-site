@@ -58,7 +58,7 @@
             </div>
             <hr>
             <footer>
-                <div class="pull-left"><a href="http://carlgo11.com/">© Carlgo11 2014</a></div>
+                <div class="pull-left"><a href="http://carlgo11.com/">&copy Carlgo11 2014</a></div>
                 <div style="margin-left: 120px">Parts of the code belongs to <a href="http://md-5.net/">md_5</a> & <a href="http://wiki.ess3.net">Essentials</a>.</div>
             </footer>
         </div>
